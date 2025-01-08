@@ -1,1 +1,3 @@
 # 2025-NFL-Big-Data-Bowl
+
+This year's NFL Big Data Bowl gave contestants tracking data from pre and post-snap frames. My goal in this project was to focus on the defensive tracking data and make a predictor to identify simulated pressure, a defensive scheme where a defense lines up threatening to blitz, but not all of the blitz-threatening defenders ultimately blitz, if any at all. I used a random forest classifier to run my model and used this to derive insights on which variables influenced the outcome variable the most, and how this can be used by NFL coaching departments for different matchups.
